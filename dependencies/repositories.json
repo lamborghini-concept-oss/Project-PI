@@ -1,0 +1,32 @@
+{
+  "repositories": [
+    {
+      "name": "@garrytan/gstack",
+      "owner": "garrytan",
+      "repo": "gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "id": 1179264259
+    },
+    {
+      "name": "@nextlevelbuilder/ui-ux-pro-max-skill",
+      "owner": "nextlevelbuilder",
+      "repo": "ui-ux-pro-max-skill",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "id": 1106996539
+    },
+    {
+      "name": "@pbakaus/impeccable",
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "id": 1097346685
+    },
+    {
+      "name": "@alchaincyf/huashu-design",
+      "owner": "alchaincyf",
+      "repo": "huashu-design",
+      "url": "https://github.com/alchaincyf/huashu-design",
+      "id": 1215145625
+    }
+  ]
+}
