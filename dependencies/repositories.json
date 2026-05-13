@@ -5,28 +5,184 @@
       "owner": "garrytan",
       "repo": "gstack",
       "url": "https://github.com/garrytan/gstack",
-      "id": 1179264259
+      "id": 1179264259,
+      "category": "UI/UX"
     },
     {
       "name": "@nextlevelbuilder/ui-ux-pro-max-skill",
       "owner": "nextlevelbuilder",
       "repo": "ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "id": 1106996539
+      "id": 1106996539,
+      "category": "UI/UX"
     },
     {
       "name": "@pbakaus/impeccable",
       "owner": "pbakaus",
       "repo": "impeccable",
       "url": "https://github.com/pbakaus/impeccable",
-      "id": 1097346685
+      "id": 1097346685,
+      "category": "UI/UX"
     },
     {
       "name": "@alchaincyf/huashu-design",
       "owner": "alchaincyf",
       "repo": "huashu-design",
       "url": "https://github.com/alchaincyf/huashu-design",
-      "id": 1215145625
+      "id": 1215145625,
+      "category": "Design"
+    },
+    {
+      "name": "@karpathy/autoresearch",
+      "owner": "karpathy",
+      "repo": "autoresearch",
+      "url": "https://github.com/karpathy/autoresearch",
+      "id": 1174820787,
+      "category": "Core Research"
+    },
+    {
+      "name": "fluxcd/source-controller",
+      "owner": "fluxcd",
+      "repo": "source-controller",
+      "url": "https://github.com/fluxcd/source-controller",
+      "registry": "https://github.com/fluxcd/source-controller/pkgs/container/source-controller",
+      "category": "DevOps/Container"
+    },
+    {
+      "name": "external-secrets/external-secrets",
+      "owner": "external-secrets",
+      "repo": "external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "registry": "https://github.com/external-secrets/external-secrets/pkgs/container/external-secrets",
+      "category": "DevOps/Security"
+    },
+    {
+      "name": "Mesa",
+      "owner": "mesa",
+      "repo": "mesa",
+      "url": "https://github.com/mesa/mesa",
+      "category": "Agent-Based Modeling",
+      "description": "Agent-based modeling framework"
+    },
+    {
+      "name": "SimPy",
+      "owner": "AdamBuruzs",
+      "repo": "simpy_ejector",
+      "url": "https://github.com/AdamBuruzs/simpy_ejector",
+      "category": "Simulation",
+      "description": "Discrete event simulation"
+    },
+    {
+      "name": "KataGo",
+      "owner": "lightvector",
+      "repo": "KataGo",
+      "url": "https://github.com/lightvector/KataGo",
+      "category": "Predictive Simulation",
+      "description": "Open AlphaGo-style MCTS engine, adaptable"
+    },
+    {
+      "name": "Ray RLlib",
+      "owner": "ray-project",
+      "repo": "ray",
+      "url": "https://github.com/ray-project/ray",
+      "category": "Reinforcement Learning",
+      "description": "Reinforcement learning at scale"
+    },
+    {
+      "name": "FinGPT",
+      "owner": "AI4Finance-Foundation",
+      "repo": "FinGPT",
+      "url": "https://github.com/AI4Finance-Foundation/FinGPT",
+      "category": "Market Analysis",
+      "description": "Market/sector trend analysis with Alpaca integration"
+    },
+    {
+      "name": "GDELT Document API",
+      "owner": "alex9smith",
+      "repo": "gdelt-doc-api",
+      "url": "https://github.com/alex9smith/gdelt-doc-api",
+      "category": "Data Sources",
+      "description": "Live disruptor/news feeds"
+    },
+    {
+      "name": "Evidently AI",
+      "owner": "evidentlyai",
+      "repo": "evidently",
+      "url": "https://github.com/evidentlyai/evidently",
+      "category": "Recommendations Engine",
+      "description": "Decision impact and drift detection"
+    },
+    {
+      "name": "CausalML",
+      "owner": "uber",
+      "repo": "causalml",
+      "url": "https://github.com/uber/causalml",
+      "category": "Recommendations Engine",
+      "description": "Causal inference for decisions"
+    },
+    {
+      "name": "What-If Tool",
+      "owner": "PAIR-code",
+      "repo": "what-if-tool",
+      "url": "https://github.com/PAIR-code/what-if-tool",
+      "category": "Recommendations Engine",
+      "description": "Google's counterfactual simulation tool"
+    },
+    {
+      "name": "AutoGen",
+      "owner": "microsoft",
+      "repo": "autogen",
+      "url": "https://github.com/microsoft/autogen",
+      "category": "Agentic AI",
+      "description": "Multi-agent business workflows"
+    },
+    {
+      "name": "CrewAI",
+      "owner": "crewAIInc",
+      "repo": "crewAI",
+      "url": "https://github.com/crewAIInc/crewAI",
+      "category": "Agentic AI",
+      "description": "Role-based agentic teams"
+    },
+    {
+      "name": "LangGraph",
+      "owner": "langchain-ai",
+      "repo": "langgraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "category": "Agentic AI",
+      "description": "Stateful agent orchestration"
+    },
+    {
+      "name": "OpenAI Swarm",
+      "owner": "openai",
+      "repo": "swarm",
+      "url": "https://github.com/openai/swarm",
+      "category": "Agentic AI",
+      "description": "Lightweight agent handoffs"
+    },
+    {
+      "name": "D3.js",
+      "owner": "d3",
+      "repo": "d3",
+      "url": "https://github.com/d3/d3",
+      "category": "Visualization",
+      "description": "Force graph for mind maps and impact visualization"
+    },
+    {
+      "name": "Cytoscape.js",
+      "owner": "cytoscape",
+      "repo": "cytoscape.js",
+      "url": "https://github.com/cytoscape/cytoscape.js",
+      "category": "Visualization",
+      "description": "Network and impact maps"
+    },
+    {
+      "name": "React Flow",
+      "owner": "xyflow",
+      "repo": "xyflow",
+      "url": "https://github.com/xyflow/xyflow",
+      "category": "Visualization",
+      "description": "Node-based UI for decision trees"
     }
   ]
 }
