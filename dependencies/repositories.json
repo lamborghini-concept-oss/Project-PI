@@ -6,7 +6,10 @@
       "repo": "gstack",
       "url": "https://github.com/garrytan/gstack",
       "id": 1179264259,
-      "category": "UI/UX"
+      "category": "UI/UX Design Systems",
+      "installCommand": "npm install gstack",
+      "pypiCommand": "pip install gstack",
+      "documentation": "https://github.com/garrytan/gstack/wiki"
     },
     {
       "name": "@nextlevelbuilder/ui-ux-pro-max-skill",
@@ -14,7 +17,9 @@
       "repo": "ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
       "id": 1106996539,
-      "category": "UI/UX"
+      "category": "UI/UX Design Systems",
+      "installCommand": "git clone https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
+      "documentation": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/README.md"
     },
     {
       "name": "@pbakaus/impeccable",
@@ -22,7 +27,10 @@
       "repo": "impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "id": 1097346685,
-      "category": "UI/UX"
+      "category": "UI/UX Design Systems",
+      "installCommand": "npm install impeccable",
+      "pypiCommand": "pip install impeccable",
+      "documentation": "https://github.com/pbakaus/impeccable/blob/main/README.md"
     },
     {
       "name": "@alchaincyf/huashu-design",
@@ -30,7 +38,9 @@
       "repo": "huashu-design",
       "url": "https://github.com/alchaincyf/huashu-design",
       "id": 1215145625,
-      "category": "Design"
+      "category": "UI/UX Design Systems",
+      "installCommand": "git clone https://github.com/alchaincyf/huashu-design.git",
+      "documentation": "https://github.com/alchaincyf/huashu-design/blob/main/README.md"
     },
     {
       "name": "@karpathy/autoresearch",
@@ -38,95 +48,10 @@
       "repo": "autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
       "id": 1174820787,
-      "category": "Core Research"
-    },
-    {
-      "name": "fluxcd/source-controller",
-      "owner": "fluxcd",
-      "repo": "source-controller",
-      "url": "https://github.com/fluxcd/source-controller",
-      "registry": "https://github.com/fluxcd/source-controller/pkgs/container/source-controller",
-      "category": "DevOps/Container"
-    },
-    {
-      "name": "external-secrets/external-secrets",
-      "owner": "external-secrets",
-      "repo": "external-secrets",
-      "url": "https://github.com/external-secrets/external-secrets",
-      "registry": "https://github.com/external-secrets/external-secrets/pkgs/container/external-secrets",
-      "category": "DevOps/Security"
-    },
-    {
-      "name": "Mesa",
-      "owner": "mesa",
-      "repo": "mesa",
-      "url": "https://github.com/mesa/mesa",
-      "category": "Agent-Based Modeling",
-      "description": "Agent-based modeling framework"
-    },
-    {
-      "name": "SimPy",
-      "owner": "AdamBuruzs",
-      "repo": "simpy_ejector",
-      "url": "https://github.com/AdamBuruzs/simpy_ejector",
-      "category": "Simulation",
-      "description": "Discrete event simulation"
-    },
-    {
-      "name": "KataGo",
-      "owner": "lightvector",
-      "repo": "KataGo",
-      "url": "https://github.com/lightvector/KataGo",
-      "category": "Predictive Simulation",
-      "description": "Open AlphaGo-style MCTS engine, adaptable"
-    },
-    {
-      "name": "Ray RLlib",
-      "owner": "ray-project",
-      "repo": "ray",
-      "url": "https://github.com/ray-project/ray",
-      "category": "Reinforcement Learning",
-      "description": "Reinforcement learning at scale"
-    },
-    {
-      "name": "FinGPT",
-      "owner": "AI4Finance-Foundation",
-      "repo": "FinGPT",
-      "url": "https://github.com/AI4Finance-Foundation/FinGPT",
-      "category": "Market Analysis",
-      "description": "Market/sector trend analysis with Alpaca integration"
-    },
-    {
-      "name": "GDELT Document API",
-      "owner": "alex9smith",
-      "repo": "gdelt-doc-api",
-      "url": "https://github.com/alex9smith/gdelt-doc-api",
-      "category": "Data Sources",
-      "description": "Live disruptor/news feeds"
-    },
-    {
-      "name": "Evidently AI",
-      "owner": "evidentlyai",
-      "repo": "evidently",
-      "url": "https://github.com/evidentlyai/evidently",
-      "category": "Recommendations Engine",
-      "description": "Decision impact and drift detection"
-    },
-    {
-      "name": "CausalML",
-      "owner": "uber",
-      "repo": "causalml",
-      "url": "https://github.com/uber/causalml",
-      "category": "Recommendations Engine",
-      "description": "Causal inference for decisions"
-    },
-    {
-      "name": "What-If Tool",
-      "owner": "PAIR-code",
-      "repo": "what-if-tool",
-      "url": "https://github.com/PAIR-code/what-if-tool",
-      "category": "Recommendations Engine",
-      "description": "Google's counterfactual simulation tool"
+      "category": "Research & AutoML",
+      "installCommand": "git clone https://github.com/karpathy/autoresearch.git && cd autoresearch && pip install -e .",
+      "pypiCommand": "pip install autoresearch",
+      "documentation": "https://github.com/karpathy/autoresearch/blob/main/README.md"
     },
     {
       "name": "AutoGen",
@@ -134,7 +59,11 @@
       "repo": "autogen",
       "url": "https://github.com/microsoft/autogen",
       "category": "Agentic AI",
-      "description": "Multi-agent business workflows"
+      "installCommand": "pip install pyautogen",
+      "pypiCommand": "pip install pyautogen",
+      "npmCommand": "npm install autogen",
+      "documentation": "https://microsoft.github.io/autogen/",
+      "githubPages": "https://github.com/microsoft/autogen/wiki"
     },
     {
       "name": "CrewAI",
@@ -142,7 +71,10 @@
       "repo": "crewAI",
       "url": "https://github.com/crewAIInc/crewAI",
       "category": "Agentic AI",
-      "description": "Role-based agentic teams"
+      "installCommand": "pip install crewai",
+      "pypiCommand": "pip install crewai",
+      "documentation": "https://docs.crewai.com/",
+      "githubPages": "https://github.com/crewAIInc/crewAI/blob/main/README.md"
     },
     {
       "name": "LangGraph",
@@ -150,7 +82,11 @@
       "repo": "langgraph",
       "url": "https://github.com/langchain-ai/langgraph",
       "category": "Agentic AI",
-      "description": "Stateful agent orchestration"
+      "installCommand": "pip install langgraph",
+      "pypiCommand": "pip install langgraph",
+      "npmCommand": "npm install @langchain/langgraph",
+      "documentation": "https://langchain-ai.github.io/langgraph/",
+      "githubPages": "https://github.com/langchain-ai/langgraph/blob/main/README.md"
     },
     {
       "name": "OpenAI Swarm",
@@ -158,7 +94,107 @@
       "repo": "swarm",
       "url": "https://github.com/openai/swarm",
       "category": "Agentic AI",
-      "description": "Lightweight agent handoffs"
+      "installCommand": "pip install openai-swarm",
+      "pypiCommand": "pip install openai-swarm",
+      "documentation": "https://github.com/openai/swarm/blob/main/README.md"
+    },
+    {
+      "name": "Mesa",
+      "owner": "mesa",
+      "repo": "mesa",
+      "url": "https://github.com/mesa/mesa",
+      "category": "Simulation & Modeling",
+      "installCommand": "pip install mesa",
+      "pypiCommand": "pip install mesa",
+      "documentation": "https://mesa.readthedocs.io/",
+      "githubPages": "https://github.com/projectmesa/mesa/blob/main/README.md"
+    },
+    {
+      "name": "SimPy",
+      "owner": "AdamBuruzs",
+      "repo": "simpy_ejector",
+      "url": "https://github.com/AdamBuruzs/simpy_ejector",
+      "category": "Simulation & Modeling",
+      "installCommand": "pip install simpy",
+      "pypiCommand": "pip install simpy",
+      "documentation": "https://simpy.readthedocs.io/",
+      "githubPages": "https://github.com/adamburuosz/simpy-ejector/blob/main/README.md"
+    },
+    {
+      "name": "KataGo",
+      "owner": "lightvector",
+      "repo": "KataGo",
+      "url": "https://github.com/lightvector/KataGo",
+      "category": "Simulation & MCTS",
+      "installCommand": "git clone https://github.com/lightvector/KataGo.git && cd KataGo && ./build.sh",
+      "documentation": "https://github.com/lightvector/KataGo/blob/master/README.md",
+      "setupGuide": "https://github.com/lightvector/KataGo/blob/master/docs/INSTALL.md"
+    },
+    {
+      "name": "Ray RLlib",
+      "owner": "ray-project",
+      "repo": "ray",
+      "url": "https://github.com/ray-project/ray",
+      "category": "Reinforcement Learning",
+      "installCommand": "pip install 'ray[rllib]'",
+      "pypiCommand": "pip install 'ray[rllib]'",
+      "documentation": "https://docs.ray.io/en/latest/rllib/index.html",
+      "githubPages": "https://github.com/ray-project/ray/blob/master/README.md"
+    },
+    {
+      "name": "FinGPT",
+      "owner": "AI4Finance-Foundation",
+      "repo": "FinGPT",
+      "url": "https://github.com/AI4Finance-Foundation/FinGPT",
+      "category": "Market Analysis",
+      "installCommand": "git clone https://github.com/AI4Finance-Foundation/FinGPT.git && cd FinGPT && pip install -r requirements.txt",
+      "documentation": "https://github.com/AI4Finance-Foundation/FinGPT/blob/master/README.md",
+      "setupGuide": "https://github.com/AI4Finance-Foundation/FinGPT/wiki"
+    },
+    {
+      "name": "GDELT Document API",
+      "owner": "alex9smith",
+      "repo": "gdelt-doc-api",
+      "url": "https://github.com/alex9smith/gdelt-doc-api",
+      "category": "Data Sources",
+      "installCommand": "pip install gdelt",
+      "pypiCommand": "pip install gdelt",
+      "documentation": "https://github.com/alex9smith/gdelt-doc-api/blob/master/README.md"
+    },
+    {
+      "name": "Evidently AI",
+      "owner": "evidentlyai",
+      "repo": "evidently",
+      "url": "https://github.com/evidentlyai/evidently",
+      "category": "Recommendations Engine",
+      "installCommand": "pip install evidently",
+      "pypiCommand": "pip install evidently",
+      "npmCommand": "npm install evidently",
+      "documentation": "https://docs.evidentlyai.com/",
+      "githubPages": "https://github.com/evidentlyai/evidently/blob/main/README.md"
+    },
+    {
+      "name": "CausalML",
+      "owner": "uber",
+      "repo": "causalml",
+      "url": "https://github.com/uber/causalml",
+      "category": "Recommendations Engine",
+      "installCommand": "pip install causalml",
+      "pypiCommand": "pip install causalml",
+      "documentation": "https://causalml-docs.readthedocs.io/",
+      "githubPages": "https://github.com/uber/causalml/blob/master/README.md"
+    },
+    {
+      "name": "What-If Tool",
+      "owner": "PAIR-code",
+      "repo": "what-if-tool",
+      "url": "https://github.com/PAIR-code/what-if-tool",
+      "category": "Recommendations Engine",
+      "installCommand": "pip install witwidget",
+      "pypiCommand": "pip install witwidget",
+      "npmCommand": "npm install @tensorflow/tfjs @pair-code/what-if-tool",
+      "documentation": "https://pair-code.github.io/what-if-tool/",
+      "githubPages": "https://github.com/PAIR-code/what-if-tool/blob/master/README.md"
     },
     {
       "name": "D3.js",
@@ -166,7 +202,11 @@
       "repo": "d3",
       "url": "https://github.com/d3/d3",
       "category": "Visualization",
-      "description": "Force graph for mind maps and impact visualization"
+      "installCommand": "npm install d3",
+      "npmCommand": "npm install d3",
+      "cdnLink": "https://d3js.org/d3.v7.min.js",
+      "documentation": "https://d3js.org/",
+      "githubPages": "https://github.com/d3/d3/blob/main/README.md"
     },
     {
       "name": "Cytoscape.js",
@@ -174,7 +214,11 @@
       "repo": "cytoscape.js",
       "url": "https://github.com/cytoscape/cytoscape.js",
       "category": "Visualization",
-      "description": "Network and impact maps"
+      "installCommand": "npm install cytoscape",
+      "npmCommand": "npm install cytoscape",
+      "cdnLink": "https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.28.1/cytoscape.umd.js",
+      "documentation": "https://js.cytoscape.org/",
+      "githubPages": "https://github.com/cytoscape/cytoscape.js/blob/master/README.md"
     },
     {
       "name": "React Flow",
@@ -182,7 +226,34 @@
       "repo": "xyflow",
       "url": "https://github.com/xyflow/xyflow",
       "category": "Visualization",
-      "description": "Node-based UI for decision trees"
+      "installCommand": "npm install reactflow",
+      "npmCommand": "npm install reactflow",
+      "documentation": "https://reactflow.dev/",
+      "githubPages": "https://github.com/xyflow/xyflow/blob/main/README.md"
+    },
+    {
+      "name": "Flux CD Source Controller",
+      "owner": "fluxcd",
+      "repo": "source-controller",
+      "url": "https://github.com/fluxcd/source-controller",
+      "containerRegistry": "https://github.com/fluxcd/source-controller/pkgs/container/source-controller",
+      "category": "DevOps & Container Management",
+      "installCommand": "helm repo add fluxcd https://charts.fluxcd.io && helm install flux-source-controller fluxcd/source-controller",
+      "dockerPull": "docker pull ghcr.io/fluxcd/source-controller:latest",
+      "documentation": "https://fluxcd.io/docs/components/source/",
+      "githubPages": "https://github.com/fluxcd/source-controller/blob/main/README.md"
+    },
+    {
+      "name": "External Secrets",
+      "owner": "external-secrets",
+      "repo": "external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "containerRegistry": "https://github.com/external-secrets/external-secrets/pkgs/container/external-secrets",
+      "category": "DevOps & Container Management",
+      "installCommand": "helm repo add external-secrets https://charts.external-secrets.io && helm install external-secrets external-secrets/external-secrets",
+      "dockerPull": "docker pull ghcr.io/external-secrets/external-secrets:latest",
+      "documentation": "https://external-secrets.io/",
+      "githubPages": "https://github.com/external-secrets/external-secrets/blob/main/README.md"
     }
   ]
 }
