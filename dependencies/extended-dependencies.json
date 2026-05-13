@@ -1,0 +1,156 @@
+{
+  "repositories": [
+    {
+      "name": "@karpathy/autoresearch",
+      "owner": "karpathy",
+      "repo": "autoresearch",
+      "url": "https://github.com/karpathy/autoresearch",
+      "id": 1174820787,
+      "category": "core"
+    },
+    {
+      "name": "fluxcd/source-controller",
+      "owner": "fluxcd",
+      "repo": "source-controller",
+      "url": "https://github.com/fluxcd/source-controller",
+      "container": "https://github.com/fluxcd/source-controller/pkgs/container/source-controller",
+      "category": "infrastructure"
+    },
+    {
+      "name": "external-secrets/external-secrets",
+      "owner": "external-secrets",
+      "repo": "external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "container": "https://github.com/external-secrets/external-secrets/pkgs/container/external-secrets",
+      "category": "infrastructure"
+    },
+    {
+      "name": "mesa/mesa",
+      "owner": "mesa",
+      "repo": "mesa",
+      "url": "https://github.com/mesa/mesa",
+      "category": "agent-based-modeling",
+      "description": "Agent-based modeling framework"
+    },
+    {
+      "name": "AdamBuruzs/simpy_ejector",
+      "owner": "AdamBuruzs",
+      "repo": "simpy_ejector",
+      "url": "https://github.com/AdamBuruzs/simpy_ejector",
+      "category": "simulation",
+      "description": "Discrete event simulation"
+    },
+    {
+      "name": "lightvector/KataGo",
+      "owner": "lightvector",
+      "repo": "KataGo",
+      "url": "https://github.com/lightvector/KataGo",
+      "category": "predictive-simulation",
+      "description": "Open AlphaGo-style MCTS engine, adaptable"
+    },
+    {
+      "name": "ray-project/ray",
+      "owner": "ray-project",
+      "repo": "ray",
+      "url": "https://github.com/ray-project/ray",
+      "category": "reinforcement-learning",
+      "description": "Ray RLlib - reinforcement learning at scale"
+    },
+    {
+      "name": "AI4Finance-Foundation/FinGPT",
+      "owner": "AI4Finance-Foundation",
+      "repo": "FinGPT",
+      "url": "https://github.com/AI4Finance-Foundation/FinGPT",
+      "category": "market-analysis",
+      "description": "Alpaca + FinGPT - market/sector trend analysis"
+    },
+    {
+      "name": "alex9smith/gdelt-doc-api",
+      "owner": "alex9smith",
+      "repo": "gdelt-doc-api",
+      "url": "https://github.com/alex9smith/gdelt-doc-api",
+      "category": "news-feeds",
+      "description": "NewsAPI + GDELT for live disruptor/news feeds"
+    },
+    {
+      "name": "evidentlyai/evidently",
+      "owner": "evidentlyai",
+      "repo": "evidently",
+      "url": "https://github.com/evidentlyai/evidently",
+      "category": "recommendations-engine",
+      "description": "Decision impact + drift detection"
+    },
+    {
+      "name": "uber/causalml",
+      "owner": "uber",
+      "repo": "causalml",
+      "url": "https://github.com/uber/causalml",
+      "category": "recommendations-engine",
+      "description": "Causal inference for decisions"
+    },
+    {
+      "name": "PAIR-code/what-if-tool",
+      "owner": "PAIR-code",
+      "repo": "what-if-tool",
+      "url": "https://github.com/PAIR-code/what-if-tool",
+      "category": "recommendations-engine",
+      "description": "Google - counterfactual simulation"
+    },
+    {
+      "name": "microsoft/autogen",
+      "owner": "microsoft",
+      "repo": "autogen",
+      "url": "https://github.com/microsoft/autogen",
+      "category": "agentic-ai",
+      "description": "Multi-agent business workflows"
+    },
+    {
+      "name": "crewAIInc/crewAI",
+      "owner": "crewAIInc",
+      "repo": "crewAI",
+      "url": "https://github.com/crewAIInc/crewAI",
+      "category": "agentic-ai",
+      "description": "Role-based agentic teams"
+    },
+    {
+      "name": "langchain-ai/langgraph",
+      "owner": "langchain-ai",
+      "repo": "langgraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "category": "agentic-ai",
+      "description": "Stateful agent orchestration"
+    },
+    {
+      "name": "openai/swarm",
+      "owner": "openai",
+      "repo": "swarm",
+      "url": "https://github.com/openai/swarm",
+      "category": "agentic-ai",
+      "description": "Lightweight agent handoffs"
+    },
+    {
+      "name": "d3/d3",
+      "owner": "d3",
+      "repo": "d3",
+      "url": "https://github.com/d3/d3",
+      "category": "visualization",
+      "description": "D3.js force graph"
+    },
+    {
+      "name": "cytoscape/cytoscape.js",
+      "owner": "cytoscape",
+      "repo": "cytoscape.js",
+      "url": "https://github.com/cytoscape/cytoscape.js",
+      "category": "visualization",
+      "description": "Network/impact maps"
+    },
+    {
+      "name": "xyflow/xyflow",
+      "owner": "xyflow",
+      "repo": "xyflow",
+      "url": "https://github.com/xyflow/xyflow",
+      "category": "visualization",
+      "description": "React Flow - node-based UI for decision trees"
+    }
+  ]
+}
